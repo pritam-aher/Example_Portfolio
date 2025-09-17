@@ -48,15 +48,13 @@
 .content_box{
     height: 90%;
     width: 100%;
-    /* background-color: blueviolet; */
     padding-left: 100px;
     box-sizing: border-box;
     padding-top: 190px;
-    /* background-color: rgb(255, 252, 246); */
 }
 .tittle_box{
     font-size: 90px;
-    color: black;
+    color: antiquewhite;
 }
 .get{
     height: 40px;
