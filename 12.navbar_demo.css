@@ -123,8 +123,8 @@
 .gallery_box1{
    height: px;
    width: 15%;
-   margin-left: 10%;
-    padding-top: 30px;
+   margin-left: 16%;
+    padding-top: 50px;
    float: left;
 }
 .img{
@@ -135,7 +135,7 @@
 .gallery_box2{
    height: px;
    width: 15%;
-   margin-left: 6.666666666666666%;
+   margin-left: 50px;
    padding-top: 30px;
    float: left;
 }
